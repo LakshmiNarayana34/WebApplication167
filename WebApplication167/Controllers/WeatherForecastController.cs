@@ -6,6 +6,7 @@ namespace WebApplication167.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //hello welcom to controller classes
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
